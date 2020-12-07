@@ -1,4 +1,3 @@
-above is my professional website below are some fun ones
 # processingjs projects
 js is cool
 click the links to go the websites
